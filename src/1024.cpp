@@ -1,6 +1,5 @@
 // 1024
-#include<iostream>
-#include<vector>
+#include <iostream>
 using namespace std;
 
 long long N; // <= 1'000'000'000
