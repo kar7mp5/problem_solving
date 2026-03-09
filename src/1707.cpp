@@ -1,4 +1,4 @@
-// 1707
+// 1707 블로그 써야함
 #include <iostream>
 #include <vector>
 #include <queue>
